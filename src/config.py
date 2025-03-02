@@ -1,5 +1,7 @@
 import pygame
 import os
+import pygame
+pygame.mixer.init()
 
 from sound import Sound
 from theme import Theme
